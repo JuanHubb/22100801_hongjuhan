@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/hongjuhan/Desktop/24-1 전공 새내기/Program Studio/PS",
+      "program": "/Users/hongjuhan/Desktop/24-1 전공 새내기/Program Studio/PS/build/Debug/outDebug"
+    }
+  ]
+}
